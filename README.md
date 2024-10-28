@@ -2,7 +2,7 @@ CMake support for ImGui
 =======================
 
 The actual [ImGui repository](https://github.com/ocornut/imgui) is referred as a
-submodule. The submodule tracks the master branch of the
+submodule. The submodule tracks the docking branch of the
 [ImGui repo](https://github.com/ocornut/imgui) which means it's still tied to a specific
 commit but it's easier to update. So you can always execute:
 
