@@ -24,3 +24,4 @@ target_sources(imgui
         imgui/backends/imgui_impl_opengl3.cpp
 )
 
+target_link_libraries(imgui PRIVATE glfw)
